@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Paper-ACM_MM_2025-blue )](https://arxiv.org/abs/2502.15278)
 [![License](https://img.shields.io/badge/License-MIT-green.svg )](LICENSE)
 
-> **Code will be released in August 2025.**
+> **Code will be released in Sept. 2025.**
 
 ## 📚 Citation
 
