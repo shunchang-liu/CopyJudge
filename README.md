@@ -125,6 +125,13 @@ python copyright_detection.py \
 - `--num_agents`: Number of judging agents (default: 3)
 - `--max_rounds`: Maximum number of debate rounds (default: 5)
 
+#### Output
+The script generates a JSON file containing:
+- Image pair information
+- Human-labeled scores
+- Model-predicted scores
+- Confidence levels
+- Reasoning/rationale for each prediction
 
 ### 2. Infringement Attack and Mitigation (copyright_attack_defense.py)
 
